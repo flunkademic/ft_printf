@@ -1,4 +1,4 @@
-# printf
+# ft_printf
 
 A custom implementation of the `ft_printf` function.
 
