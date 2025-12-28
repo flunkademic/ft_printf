@@ -16,6 +16,7 @@ make
 ```
 
 This will compile all .c files and create libftprintf.a.
+
 Include ft_printf.h and link with the library in projects.
 
 ## Example:
